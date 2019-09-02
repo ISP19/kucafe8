@@ -5,5 +5,7 @@
 
 | Name  | Role | Github  |
 |:------|------|--------:|
-|Warat narattharaksa|Team Lead,breakfast menu| b5710547221 |
+|Warat Narattharaksa|Leader, Breakfast Menu| b5710547221 |
+|Tetach Rattanavikran|Dinner Menu|theethaj|
+|Punyawee Srithongkerd|Dinner Menu|PunyaweeSrithongkerd|
 
