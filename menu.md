@@ -9,7 +9,7 @@
 | Fried Grouper Fish                            |  100.0  |
 | Grilled Oysters                            |  400.0  |
 
-## Beverages
+## Dinner Beverages
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
