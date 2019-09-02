@@ -1,39 +1,39 @@
-## Menu
+## Breakfast Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Jim's Burger                           |  150  |
-| Pizza                                  |  200  |
-| Fries                                  |  100  |
+| Jim's Burger                           |  150.0  |
+| Pizza                                  |  200.0  |
+| Fries                                  |  1000.0  |
 
-## Beverages
-
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| Coke                                   | 30    |
-| Pepsi                                  | 30    |
-
-
-## Lunch menu 
+## Breakfast Beverages
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Pad Thai                         | 80.- |
-| Fried Rice with shrimp                        | 150.- |
-| Noodle                          | 65.- |
-| Pizza                                | 220.- |
-| Fries                                  |  100.-  |
+| Coke                                   | 30.0    |
+| Pepsi                                  | 30.0    |
 
-## Beverages
+
+## Lunch Menu 
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Coke                                   |  30.- |
-| Pepsi                                  |  30.- |
-| Iced Latte                                  |  70.- |
-| Iced Cappucino                                  |  70.- |
-| Iced Chocolate                                  |  60.- |
-| Hot Tea                                    |  50.- |
+| Pad Thai                         | 80.0 |
+| Fried Rice with shrimp                        | 150.0 |
+| Noodle                          | 65.0 |
+| Pizza                                | 220.0 |
+| Fries                                  |  100.0  |
+
+## Lunch Beverages
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Coke                                   |  30.0 |
+| Pepsi                                  |  30.0 |
+| Iced Latte                                  |  70.0 |
+| Iced Cappucino                                  |  70.0 |
+| Iced Chocolate                                  |  60.0 |
+| Hot Tea                                    |  50.0 |
 
 ---
 
