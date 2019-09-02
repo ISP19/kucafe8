@@ -1,5 +1,5 @@
 # KU Cafe
- [Breakfast menu](menu.md)
+ [Menu](menu.md)
 
 ## About Us
 
