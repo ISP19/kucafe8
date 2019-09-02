@@ -1,4 +1,4 @@
-## Lunch menu 
+## Lunch Menu 
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
@@ -8,7 +8,7 @@
 | Pizza                                | 220.0 |
 | Fries                                  |  100.0  |
 
-## Beverages
+## Lunch Beverages
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
