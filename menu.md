@@ -8,7 +8,6 @@
 | Grilled Phuket Lobster                            |  450.0  |
 | Fried Grouper Fish                            |  100.0  |
 | Grilled Oysters                            |  400.0  |
----
 
 ## Beverages
 
