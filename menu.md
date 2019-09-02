@@ -2,13 +2,16 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Jim's Burger                           | 150.- |
+| Hawaiian Pizza                         | 200.- |
+| Monster fries                          | 100.- |
 
 ## Beverages
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Coke                                   |  30.- |
+| Pepsi                                  |  30.- |
 
 ---
 
