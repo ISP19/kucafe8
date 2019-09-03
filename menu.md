@@ -13,16 +13,6 @@
 | Coke                                   | 30.0    |
 | Pepsi                                  | 30.0    |
 
-## Lunch Menu 
-
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| Pad Thai                         | 80.0 |
-| Fried Rice with shrimp                        | 150.0 |
-| Noodle                          | 65.0 |
-| Pizza                                | 220.0 |
-| Fries                                  |  100.0  |
-
 ## Lunch menu 
 
 | Item                                   | Price |
