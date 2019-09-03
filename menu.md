@@ -6,7 +6,7 @@
 | Pizza                                  |  200  |
 | Fries                                  |  100  |
 
-## Beverages
+## Beverages 
 
 | Item                                   | Price |
 |:---------------------------------------|------:|

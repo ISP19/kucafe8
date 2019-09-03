@@ -1,5 +1,5 @@
 # KU Cafe
- [Breakfast menu](menu.md)
+ [Menu](menu.md)
 
 ## About Us
 
@@ -9,4 +9,4 @@
 |Tanapol Buangam|lunch menu| KOngTNP |
 |Tetach Rattanavikran|Dinner Menu|theethaj|
 |Punyawee Srithongkerd|Dinner Menu|PunyaweeSrithongkerd|
-
+|Kasdit Wongpaiboon|lunch menu| BenZacs |
