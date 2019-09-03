@@ -22,7 +22,7 @@ git nranch ## Menu
 | Iced Cappucino                         |  70.- |
 | Iced Chocolate                         |  60.- |
 | Hot Tea                                |  50.- |
-| americano                          |  40.- |
+| americano                              |  40.- |
 | Ice Matcha                             |  60.- |
 | Milk Tea                               |  30.- |
 
